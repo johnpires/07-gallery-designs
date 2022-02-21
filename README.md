@@ -16,11 +16,11 @@ CURSOS LINK 👇
 | 03  | [Gallery Designs-3](https://github.com/johnpires/07-gallery-designs/tree/main/Gallery-Designs-03)      | Clique aqui |
 | 04  | [Gallery Designs-4](https://github.com/johnpires/07-gallery-designs/tree/main/Gallery-Designs-04)      | Clique aqui |
 | 05  | [Gallery Designs-5](https://github.com/johnpires/07-gallery-designs/tree/main/Gallery-Designs-05)      | Clique aqui |
-| 06  | [Gallery Designs-6]()      | Clique aqui |
-| 07  | [Gallery Designs-7]()      | Clique aqui |
-| 08  | [Gallery Designs-8]()      | Clique aqui |
-| 09  | [Gallery Designs-9]()      | Clique aqui |
-| 10  | [Gallery Designs-10]()      | Clique aqui |
+| 06  | [Gallery Designs-6](https://github.com/johnpires/07-gallery-designs/tree/main/Gallery-Designs-06)      | Clique aqui |
+| 07  | [Gallery Designs-7](https://github.com/johnpires/07-gallery-designs/tree/main/Gallery-Designs-07)      | Clique aqui |
+| 08  | [Gallery Designs-8](https://github.com/johnpires/07-gallery-designs/tree/main/Gallery-Designs-08)      | Clique aqui |
+| 09  | [Gallery Designs-9](https://github.com/johnpires/07-gallery-designs/tree/main/Gallery-Designs-09)      | Clique aqui |
+| 10  | [Gallery Designs-10](https://github.com/johnpires/07-gallery-designs/tree/main/Gallery-Designs-10)      | Clique aqui |
 
 
 <br>
